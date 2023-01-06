@@ -1,0 +1,8 @@
+nav{
+    height: 500px;
+    float: left;
+    color: black;
+    background-color: gray;
+    display: inline-block;
+    padding: 15px;
+}
